@@ -3,6 +3,9 @@
 Welcome to my page!
 I'm Ayshath Nafida M H, B.Tech final year Student From LBS College of Engineering Kasaragod, Currently Living in India.
 
+## Connect with me
+-Email: ayshathnafida@gmail.com
+-LinkedIn: Ayshath Nafida
 
 <!--
 **Naff488/Naff488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
